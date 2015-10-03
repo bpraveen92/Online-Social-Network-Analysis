@@ -1,0 +1,283 @@
+{
+  "cut1": 3, 
+  "gn_1_2": [
+    [
+      "A", 
+      "C"
+    ], 
+    [
+      "B"
+    ], 
+    [
+      "D", 
+      "F"
+    ], 
+    [
+      "E"
+    ], 
+    [
+      "G"
+    ]
+  ], 
+  "gn_1_4": [
+    [
+      "A", 
+      "B", 
+      "C"
+    ], 
+    [
+      "D", 
+      "E", 
+      "F", 
+      "G"
+    ]
+  ], 
+  "gn_2_3": [
+    [
+      "A", 
+      "B", 
+      "C"
+    ], 
+    [
+      "D", 
+      "F", 
+      "G"
+    ]
+  ], 
+  "gn_sizes": [
+    100, 
+    68, 
+    100, 
+    32, 
+    40, 
+    47
+  ], 
+  "graph_edges": 6060, 
+  "graph_order": 5062, 
+  "jaccard_wt": [
+    [
+      [
+        "Bill Gates", 
+        "Bill & Melinda Gates Foundation"
+      ], 
+      161.61041710333265
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Global Citizen"
+      ], 
+      73.52312106603661
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "ONE"
+      ], 
+      65.57724402640957
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "PATH"
+      ], 
+      41.252724795640326
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Sue Desmond-Hellmann"
+      ], 
+      35.534921765337295
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "MY World"
+      ], 
+      28.970556963472497
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Girl Up"
+      ], 
+      26.721474795640326
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Roll Back Malaria"
+      ], 
+      26.043850336765868
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Global Poverty Project"
+      ], 
+      23.636183442256865
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "GivingTuesday"
+      ], 
+      19.916517899088596
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Show of Force: Social Good"
+      ], 
+      18.682191880279824
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Microsoft Research"
+      ], 
+      18.66013220304773
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "CNN"
+      ], 
+      18.474947017862547
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Girl Effect"
+      ], 
+      18.17564146230699
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Global Accelerator"
+      ], 
+      14.990081117479408
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "TED"
+      ], 
+      14.44716924008477
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Rio+Social"
+      ], 
+      14.311920197939179
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Devex"
+      ], 
+      13.877724795640326
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Sustainable Energy for All"
+      ], 
+      13.769391462306995
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "UNICEF USA"
+      ], 
+      13.202724795640327
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "EFA Report UNESCO"
+      ], 
+      13.131891462306994
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Better Immunization Data Initiative"
+      ], 
+      12.83605812897366
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Speak Up Africa"
+      ], 
+      12.05467284758838
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Aeras"
+      ], 
+      11.98028889820443
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Stop TB Partnership"
+      ], 
+      11.687248605164138
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Surface"
+      ], 
+      11.261984054899587
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "U.S. Department of State"
+      ], 
+      11.042407335322867
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "World Bank"
+      ], 
+      11.037812514938572
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Young Global Leaders"
+      ], 
+      10.815224795640328
+    ], 
+    [
+      [
+        "Bill Gates", 
+        "Upworthy"
+      ], 
+      10.802724795640328
+    ]
+  ], 
+  "ncv1": 1.0285714285714285, 
+  "score_clusters": [
+    0.5394522186431889, 
+    0.7112986541855564, 
+    0.6125866583993509, 
+    0.7394497863247863, 
+    0.38487710745480397, 
+    0.169372331833391
+  ], 
+  "subgraph_edges": 1710, 
+  "subgraph_edges_2": 1124, 
+  "subgraph_order": 712, 
+  "subgraph_order_2": 417, 
+  "volume1": 7
+}
