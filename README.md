@@ -1,1 +1,1 @@
-Python scripts using Networkx library package for visual analytics. 
+# Assignments and Project completed as a part of my course curriculum
